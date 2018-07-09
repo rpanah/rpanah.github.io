@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Abbas Razaghpanah
+ORG:Stony Brook University;
+EMAIL;type=INTERNET;type=WORK;type=pref:arazaghpanah@cs.stonybrook.edu
+item1.URL;type=pref:http://abbas.rpanah.ir
+item1.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+CATEGORIES:CKC Email Notice,card
+UID:25ee50df-73bf-409d-87fe-ada5d2ae8119
+X-ABUID:03280274-F366-457E-BC67-BD974188BAF9:ABPerson
+END:VCARD
