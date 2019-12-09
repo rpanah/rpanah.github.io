@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
 N:;;;;
-FN:Abbas Razaghpanah
-ORG:Stony Brook University;
-EMAIL;type=INTERNET;type=WORK;type=pref:arazaghpanah@cs.stonybrook.edu
+FN:Abbas Razaghpanah, PhD
+ORG:International Computer Science Institute;
+EMAIL;type=INTERNET;type=WORK;type=pref:abbas@icsi.berkeley.edu
 item1.URL;type=pref:http://abbas.rpanah.ir
 item1.X-ABLabel:_$!<HomePage>!$_
 X-ABShowAs:COMPANY

@@ -151,8 +151,6 @@ jQuery(document).ready(function(){
 		
 		jQuery.backstretch([
 			"images/back_1.jpg",
-			"images/back_2.jpg",
-			"images/back_3.jpg"
 		], {duration: 5000, fade: 1000});
 	
 	
